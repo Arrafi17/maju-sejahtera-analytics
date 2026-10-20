@@ -1,0 +1,59 @@
+id_pelanggan,jumlah_invoice,eksposur_juta,rugi_diharapkan_juta,prob_rata2,rekomendasi,tindakan,rugi_dihindari_juta,margin_hilang_juta,manfaat_bersih_juta,segmen,wilayah,limit_kredit_juta
+C019,4,617.75,81.619,0.132,AMAN,Pertahankan kebijakan kredit saat ini,0.0,0.0,0.0,Korporat,Sulawesi,816
+C011,8,997.93,78.35,0.079,AMAN,Pertahankan kebijakan kredit saat ini,0.0,0.0,0.0,Korporat,Jawa,967
+C012,4,317.54,65.564,0.206,WASPADA,Turunkan limit kredit 30% dan pendekkan termin maksimal 30 hari,22.947,8.063,14.884,Korporat,Sulawesi,763
+C018,4,531.54,47.56,0.089,AMAN,Pertahankan kebijakan kredit saat ini,0.0,0.0,0.0,Korporat,Kalimantan,896
+C028,4,145.99,42.158,0.289,WASPADA,Turunkan limit kredit 30% dan pendekkan termin maksimal 30 hari,14.755,3.707,11.048,Grosir,Kalimantan,370
+C056,2,145.18,41.145,0.283,WASPADA,Turunkan limit kredit 30% dan pendekkan termin maksimal 30 hari,14.401,3.687,10.714,Korporat,Jawa,819
+C047,4,167.4,40.17,0.24,WASPADA,Turunkan limit kredit 30% dan pendekkan termin maksimal 30 hari,14.06,4.251,9.809,Grosir,Sumatra,208
+C045,4,125.4,38.825,0.31,BATASI,"Batasi pembelian: wajib bayar di muka (DP 50%), tanpa kredit baru",27.178,7.961,19.217,Grosir,Sumatra,370
+C001,6,172.15,36.101,0.21,WASPADA,Turunkan limit kredit 30% dan pendekkan termin maksimal 30 hari,12.635,4.371,8.264,Grosir,Sulawesi,181
+C007,4,90.15,32.997,0.366,BATASI,"Batasi pembelian: wajib bayar di muka (DP 50%), tanpa kredit baru",23.098,5.723,17.375,Grosir,Kalimantan,188
+C034,3,67.12,32.386,0.483,BATASI,"Batasi pembelian: wajib bayar di muka (DP 50%), tanpa kredit baru",22.67,4.261,18.409,Grosir,Kalimantan,357
+C032,6,196.76,30.105,0.153,WASPADA,Turunkan limit kredit 30% dan pendekkan termin maksimal 30 hari,10.537,4.996,5.541,Grosir,Jawa,314
+C021,4,122.78,28.485,0.232,WASPADA,Turunkan limit kredit 30% dan pendekkan termin maksimal 30 hari,9.97,3.118,6.852,Grosir,Jawa,192
+C010,4,140.52,26.849,0.191,WASPADA,Turunkan limit kredit 30% dan pendekkan termin maksimal 30 hari,9.397,3.568,5.829,Grosir,Kalimantan,249
+C036,4,63.58,26.819,0.422,BATASI,"Batasi pembelian: wajib bayar di muka (DP 50%), tanpa kredit baru",18.773,4.036,14.737,Retail,Jawa,118
+C060,4,121.98,25.411,0.208,WASPADA,Turunkan limit kredit 30% dan pendekkan termin maksimal 30 hari,8.894,3.097,5.796,Grosir,Sumatra,204
+C050,5,39.74,23.556,0.593,BATASI,"Batasi pembelian: wajib bayar di muka (DP 50%), tanpa kredit baru",16.489,2.523,13.966,Retail,Sumatra,132
+C025,2,127.79,23.162,0.181,WASPADA,Turunkan limit kredit 30% dan pendekkan termin maksimal 30 hari,8.107,3.245,4.862,Korporat,Sulawesi,886
+C023,4,114.84,22.913,0.2,WASPADA,Turunkan limit kredit 30% dan pendekkan termin maksimal 30 hari,8.02,2.916,5.104,Grosir,Jawa,384
+C024,5,481.47,22.798,0.047,AMAN,Pertahankan kebijakan kredit saat ini,0.0,0.0,0.0,Korporat,Jawa,700
+C013,4,49.6,22.617,0.456,BATASI,"Batasi pembelian: wajib bayar di muka (DP 50%), tanpa kredit baru",15.832,3.149,12.683,Retail,Sulawesi,126
+C030,4,44.5,19.909,0.447,BATASI,"Batasi pembelian: wajib bayar di muka (DP 50%), tanpa kredit baru",13.937,2.825,11.112,Retail,Sulawesi,117
+C022,2,217.59,19.836,0.091,AMAN,Pertahankan kebijakan kredit saat ini,0.0,0.0,0.0,Korporat,Sumatra,473
+C041,7,70.15,19.307,0.275,WASPADA,Turunkan limit kredit 30% dan pendekkan termin maksimal 30 hari,6.757,1.781,4.976,Retail,Sulawesi,124
+C020,4,99.31,16.831,0.169,WASPADA,Turunkan limit kredit 30% dan pendekkan termin maksimal 30 hari,5.891,2.522,3.369,Grosir,Jawa,274
+C058,1,44.55,13.508,0.303,BATASI,"Batasi pembelian: wajib bayar di muka (DP 50%), tanpa kredit baru",9.455,2.828,6.627,Grosir,Sumatra,323
+C048,4,223.0,11.046,0.05,AMAN,Pertahankan kebijakan kredit saat ini,0.0,0.0,0.0,Korporat,Kalimantan,784
+C059,2,262.22,9.87,0.038,AMAN,Pertahankan kebijakan kredit saat ini,0.0,0.0,0.0,Korporat,Kalimantan,702
+C039,3,28.97,9.708,0.335,BATASI,"Batasi pembelian: wajib bayar di muka (DP 50%), tanpa kredit baru",6.795,1.839,4.956,Retail,Jawa,66
+C033,4,41.88,9.603,0.229,WASPADA,Turunkan limit kredit 30% dan pendekkan termin maksimal 30 hari,3.361,1.063,2.297,Retail,Kalimantan,98
+C052,7,56.04,9.447,0.169,WASPADA,Turunkan limit kredit 30% dan pendekkan termin maksimal 30 hari,3.306,1.423,1.883,Retail,Jawa,100
+C035,3,67.38,9.413,0.14,AMAN,Pertahankan kebijakan kredit saat ini,0.0,0.0,0.0,Grosir,Jawa,385
+C016,5,58.48,9.021,0.154,WASPADA,Turunkan limit kredit 30% dan pendekkan termin maksimal 30 hari,3.158,1.485,1.673,Retail,Sumatra,137
+C040,2,19.81,8.929,0.451,BATASI,"Batasi pembelian: wajib bayar di muka (DP 50%), tanpa kredit baru",6.251,1.258,4.993,Retail,Sulawesi,90
+C008,1,19.45,8.198,0.422,BATASI,"Batasi pembelian: wajib bayar di muka (DP 50%), tanpa kredit baru",5.739,1.235,4.504,Retail,Sumatra,51
+C037,5,35.99,6.938,0.193,WASPADA,Turunkan limit kredit 30% dan pendekkan termin maksimal 30 hari,2.428,0.914,1.515,Retail,Sulawesi,91
+C004,3,254.12,6.751,0.027,AMAN,Pertahankan kebijakan kredit saat ini,0.0,0.0,0.0,Korporat,Jawa,593
+C055,4,29.02,6.483,0.223,WASPADA,Turunkan limit kredit 30% dan pendekkan termin maksimal 30 hari,2.269,0.737,1.532,Retail,Sulawesi,104
+C006,2,15.14,6.147,0.406,BATASI,"Batasi pembelian: wajib bayar di muka (DP 50%), tanpa kredit baru",4.303,0.961,3.342,Retail,Sulawesi,69
+C027,3,29.87,6.102,0.204,WASPADA,Turunkan limit kredit 30% dan pendekkan termin maksimal 30 hari,2.136,0.758,1.377,Retail,Sulawesi,57
+C003,3,27.87,5.404,0.194,WASPADA,Turunkan limit kredit 30% dan pendekkan termin maksimal 30 hari,1.891,0.708,1.184,Retail,Kalimantan,91
+C044,5,41.58,5.272,0.127,AMAN,Pertahankan kebijakan kredit saat ini,0.0,0.0,0.0,Retail,Sumatra,98
+C015,4,37.12,4.871,0.131,AMAN,Pertahankan kebijakan kredit saat ini,0.0,0.0,0.0,Retail,Kalimantan,130
+C017,2,14.95,4.669,0.312,BATASI,"Batasi pembelian: wajib bayar di muka (DP 50%), tanpa kredit baru",3.269,0.949,2.319,Retail,Sumatra,139
+C057,2,45.18,4.259,0.094,AMAN,Pertahankan kebijakan kredit saat ini,0.0,0.0,0.0,Grosir,Sulawesi,396
+C051,4,29.57,4.045,0.137,AMAN,Pertahankan kebijakan kredit saat ini,0.0,0.0,0.0,Retail,Jawa,98
+C046,2,12.0,4.023,0.335,BATASI,"Batasi pembelian: wajib bayar di muka (DP 50%), tanpa kredit baru",2.816,0.762,2.054,Retail,Jawa,138
+C049,3,24.75,3.965,0.16,WASPADA,Turunkan limit kredit 30% dan pendekkan termin maksimal 30 hari,1.388,0.628,0.759,Retail,Sumatra,144
+C029,2,18.53,3.81,0.206,WASPADA,Turunkan limit kredit 30% dan pendekkan termin maksimal 30 hari,1.333,0.471,0.863,Retail,Jawa,78
+C009,5,22.47,3.647,0.162,WASPADA,Turunkan limit kredit 30% dan pendekkan termin maksimal 30 hari,1.277,0.571,0.706,Retail,Kalimantan,77
+C031,2,22.88,3.578,0.156,WASPADA,Turunkan limit kredit 30% dan pendekkan termin maksimal 30 hari,1.252,0.581,0.671,Retail,Jawa,95
+C026,1,10.03,3.248,0.324,BATASI,"Batasi pembelian: wajib bayar di muka (DP 50%), tanpa kredit baru",2.273,0.637,1.637,Retail,Kalimantan,141
+C005,1,17.8,2.971,0.167,WASPADA,Turunkan limit kredit 30% dan pendekkan termin maksimal 30 hari,1.04,0.452,0.588,Grosir,Sumatra,191
+C002,3,18.73,2.478,0.132,AMAN,Pertahankan kebijakan kredit saat ini,0.0,0.0,0.0,Retail,Sumatra,136
+C042,3,15.99,2.131,0.133,AMAN,Pertahankan kebijakan kredit saat ini,0.0,0.0,0.0,Retail,Kalimantan,89
+C014,1,4.11,1.868,0.454,BATASI,"Batasi pembelian: wajib bayar di muka (DP 50%), tanpa kredit baru",1.307,0.261,1.046,Retail,Sumatra,106
+C054,1,5.79,1.849,0.319,BATASI,"Batasi pembelian: wajib bayar di muka (DP 50%), tanpa kredit baru",1.295,0.368,0.927,Retail,Sumatra,103
+C053,1,28.01,1.577,0.056,AMAN,Pertahankan kebijakan kredit saat ini,0.0,0.0,0.0,Grosir,Sumatra,348
